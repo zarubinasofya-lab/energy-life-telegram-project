@@ -1,0 +1,5 @@
+python-telegram-bot
+openai
+apscheduler
+gspread
+google-auth
